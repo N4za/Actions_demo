@@ -9,5 +9,5 @@ def contar_mayores(diccionario):
             pass
         else:
             count = count+1
-    print("Existen: ",count," mayores de edad registrados")
+    print("Existen: ",count," personas mayores de edad registrados")
     return count

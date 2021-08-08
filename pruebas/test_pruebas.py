@@ -4,7 +4,7 @@ import aplicacion as ar
 array = [5,3,4,2,1]
 diccionario = [
     {"nombre":"Nazareth","edad":21},
-    {"nombre":"Yulissa","edad":15},
+    {"nombre":"Yulissa","edad":16},
     {"nombre":"Mariel","edad":30}]
 
 def test_pruebas():
